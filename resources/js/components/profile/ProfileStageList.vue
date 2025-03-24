@@ -48,20 +48,6 @@ onMounted(async () => {
     gap: 30px;
 }
 
-.error-text {
-    color: red;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 20px;
-}
-
-.empty-text {
-    color: #777;
-    font-weight: 500;
-    text-align: center;
-    margin-top: 20px;
-}
-
 @media (max-width: 1045px) {
     .stage-list__container {
         flex-wrap: nowrap;
